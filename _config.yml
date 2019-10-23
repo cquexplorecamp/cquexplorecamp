@@ -28,8 +28,8 @@ twitter: cqu # replace by your username
 facebook: cqu # replace by your username
 
 # Disqus
-disqus: True
-disqus_shortname: www-warriorland-cn # replace with your disqus username
+disqus: False
+disqus_shortname: test # www-warriorland-cn # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-150677587-1 # replace with your GA tracking identifier
