@@ -74,3 +74,26 @@ martin:
   facebook: False
   twitter: False
   cover: False
+  martin:
+yourzeromax:
+  username: yourzeromax
+  name: Zhimou Yu
+  location: Haidian, Beijing
+  url_full: https://www.yourzeromax.top
+  url: www.yourzeromax.top
+  bio: to be or not to be,that's a question.
+  picture: assets/images/martin.jpg
+  facebook: False
+  twitter: False
+  cover: False
+windrunner:
+  username: Windrunner
+  name: Sylvanas
+  location: Haidian, Beijing
+  url_full: https://www.warriorland.cn
+  url: www.warriorland.cn
+  bio: for the Horde.
+  picture: assets/images/abraham.jpg
+  facebook: False
+  twitter: False
+  cover: False
