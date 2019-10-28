@@ -73,7 +73,7 @@ username: windrunner
 repo: cquexplorecamp
 branch: master
 relative_source: ../cquexplorecamp/
-destination: ../cqu_blog/
+destination: ./cqu_blog/
 production_url:  https://cquexplorecamp.github.io/
 source_url:  https://github.com/cquexplorecamp/cquexplorecamp.github.io/
 
