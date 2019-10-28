@@ -9,10 +9,10 @@ words_per_minute: 200
 baseurl: /
 
 # Website info
-title: 重大北京探索大本营
-description: The Camp of Explore in Beijing with CQU.
+title: 活泼可爱每一天
+description: Happy every day.
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+logo: assets/images/fables.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://cquexplorecamp.github.io/
