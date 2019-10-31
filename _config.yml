@@ -94,3 +94,4 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
+  - release.sh
