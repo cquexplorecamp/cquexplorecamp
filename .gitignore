@@ -28,4 +28,5 @@ test/version_tmp
 tmp
 vendor
 Gemfile.lock
+cqu_blog
 node_modules
