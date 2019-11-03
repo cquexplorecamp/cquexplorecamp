@@ -12,7 +12,7 @@ baseurl: /
 title: 活泼可爱每一天
 description: Happy every day.
 cover: assets/images/blog-cover.jpg
-logo: assets/images/fables.png
+logo: assets/images/fables.jpg
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://cquexplorecamp.github.io/
