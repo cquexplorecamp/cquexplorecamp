@@ -137,6 +137,7 @@ into the {body} of the default.hbs template -->
             {% endif %}
 
             {% if site.valine or page.valine %}
+            <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/selfcss/valine.css" />
             <div id="vcomments"></div>
             <script>
                 new Valine({
