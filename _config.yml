@@ -31,6 +31,22 @@ facebook: False # replace by your username
 disqus: False
 disqus_shortname: test # www-warriorland-cn # replace with your disqus username
 
+# Livere
+livere: False # https://www.livere.com/
+
+# Valine
+valine: True # https://valine.js.org/
+appId: n083pU3fnDidO3AB2QBb3BGj-gzGzoHsz
+appKey: Djdhxa6cIPOzC0EieWiLtNXC
+notify: False
+verify: False
+recordIP: True
+avatar: wavatar
+placeholder: just talk something?
+emoticon_url: https://cloud.panjunwen.com/alu
+emoticon_list: ["狂汗.png","不说话.png","汗.png","坐等.png","献花.png","不高兴.png","中刀.png","害羞.png","皱眉.png","小眼睛.png","暗地观察.png"]
+    
+
 # Google Analytics
 google_analytics: UA-150677587-1 # replace with your GA tracking identifier
 

@@ -32,7 +32,11 @@
     
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     {% include head.html %}
+    
     <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+
 </head>
 <body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
 
