@@ -9,10 +9,10 @@ words_per_minute: 200
 baseurl: /
 
 # Website info
-title: 活泼可爱每一天
-description: Happy every day.
+title: 重大北京探索大本营
+description: The Happy's Camp in Beijing of CQU.
 cover: assets/images/blog-cover.jpg
-logo: assets/images/fables.jpg
+logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://cquexplorecamp.github.io/
