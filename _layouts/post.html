@@ -55,8 +55,12 @@ into the {body} of the default.hbs template -->
                 </div>
             </section>
 
+            {% if page.form %}
+            <iframe src="{{ page.form }}" width="1080" height="600" frameborder="0" marginheight="0"
+                marginwidth="0">正在加载…</iframe>
+            {% endif %}
             <!-- Email subscribe form at the bottom of the page -->
-            {% if site.subscribers %}
+            {% if site.subscribers and site.subscriber_post %}
             <section class="subscribe-form">
                 <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
                 <p>Get the latest posts delivered right to your inbox</p>
